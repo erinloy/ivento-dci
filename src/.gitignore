@@ -1,7 +1,0 @@
-!.gitignore
-bin/
-obj/
-_ReSharper.Dci/
-*.user
-*.dotCover
-*.suo
